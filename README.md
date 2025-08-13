@@ -88,4 +88,20 @@ Analysis of customer behavior, retention, and liftime value for an e-commerce co
 1. **Customer Value Optimization** 
     - Launch VIP program for 12 375 high-value customers (66% revenue) 
     - Create personalized upgrade paths for mid-value segment ($66.6M -> $135.3M opportunity)
-    - Design price-sensitive promotions for l
+    - Design price-sensitive promotions for low-value segement to increase purchase frequency 
+
+2. Cohort Performance Strategy 
+    - Target 2022-2024 cohorts with personalized re-engagement offers 
+    - Implement loyalty/subscription programs to stabilize revenue flucations 
+    - Apply successful strategies from high-spending 2016-2018 cohorts to newer customers 
+
+3. Retention & Churn Prevention 
+    - Strengthen first 1-2 year engagement with onboarding incentives and loyalty rewards 
+    - Focus on targeted win-back campaigns for high-value churned customers 
+    - Implement proactive intervention system for at-risk customers before they lapse 
+
+## Technical Details 
+
+- **Database:** PostgreSQL 
+- **Analysis Tool:** PostgreSQL, Dbeaver, PGadmin 
+- **Visualization:** Rstudio 
