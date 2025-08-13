@@ -21,7 +21,7 @@ Analysis of customer behavior, retention, and liftime value for an e-commerce co
 
 **📈 Visualization:** 
 
-<img src = "/Users/simonkurzewski/Desktop/Things/SQL folder/First Project/images/0c68894e-f188-4077-bda0-7044f4f75826.png">
+<img src = "images/0c68894e-f188-4077-bda0-7044f4f75826.png">
 
 💻 Script: [1_customer_segmentation.R](/1_customer_segmentation.R)
 
@@ -45,7 +45,7 @@ Analysis of customer behavior, retention, and liftime value for an e-commerce co
 
 **📈 Visualization:** 
 
-<img src = "/Users/simonkurzewski/Desktop/Things/SQL folder/First Project/images/90a35112-10f4-4a63-99f6-94ce3ca52aaa.png">
+<img src = "images/90a35112-10f4-4a63-99f6-94ce3ca52aaa.png">
 
 
 💻 Script: [2.cohort_analysis.R](/2.cohort_analysis.R)
@@ -69,7 +69,8 @@ Analysis of customer behavior, retention, and liftime value for an e-commerce co
 
 **📈 Visualization:** 
 
-<img src = "/Users/simonkurzewski/Desktop/Things/SQL folder/First Project/images/2f961534-a279-4a53-ab62-57e7c7c2eb7d.png">
+<img src = "images/2f961534-a279-4a53-ab62-57e7c7c2eb7d.png">
+
 
 💻 Script: [3_retention_analysis.R](/3_retention_analysis.R)
 
